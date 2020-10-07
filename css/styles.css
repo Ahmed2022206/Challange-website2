@@ -171,66 +171,73 @@ a {
   }
 
   .h-1 {
-    width: 95%;
+    width: 100%;
     font-size: 26px;
     position: relative;
-    left: 8px;
+    left: 0;
+    margin: auto;
   }
 
   .h-2 {
-    width: 95%;
+    width: 100%;
     font-size: 26px;
     position: relative;
-    left: 5px;
+    left: 0;
+    margin: auto;
   }
 
   .p-1 {
     font-size: 15px;
-    width: 95%;
+    width: 100%;
     position: relative;
     right: 0px;
-    left: 5px;
+    left: 0;
+    margin: auto;
   }
 
   .box-2 {
    width: 340px;
    position: relative;
-   left: 15px;
+   left: 0;
    bottom: 250px;
+   margin: auto;
   }
 
   .box-1 {
     width: 340px;
     position: relative;
-    margin: 0px auto 0px auto;
-    left: 15px;
+    left: 0;
     top: 350px;
-    margin: 1px;
+    margin: auto;
   }
 
   .box-3 {
     width: 340px;
     position: relative;
     top: 100px;
-    left: 15px;
+    left: 0;
+    margin: auto;
   }
 
   .box-4 {
     width: 340px;
     position: relative;
-    left: 15px;
+    left: 0;
     top: 150px;
+    margin: auto;
   }
 
   .p-6 {
     position: relative;
-    left: 15px;
-    top: 220px;
+    left: 0;
+    top: 210px;
+    margin: auto;
   }
 
   .p-7 {
     position: relative;
-    left: 15px;
+    left: 0;
+    margin: auto;
   }
 
   h2 {
